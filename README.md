@@ -57,7 +57,7 @@ glutKeyboardFunc(void (*func)(unsigned char key, int x, int y));
 glutMouseFunc(void (*func)(int button, int state, int x, int y));
 glutMotionFunc(void (*func)(int x, int y));
 ```
-```
+```cpp
 gluOrtho2D(GLdouble left, GLdouble right, GLdouble top, GLdouble bottom); 
 glClear(GLbitfield mask);
 glPointSize(GLfloat size);
