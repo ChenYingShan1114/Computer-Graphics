@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\code\C++\CG\助教課sample\Lab0\Debug\Lab0.exe
+C:\Users\chenyingshan\Desktop\Lab0\Debug\Lab0.exe
+C:\Users\chenyingshan\Desktop\Lab2\Debug\Lab0.exe
+C:\Users\chenyingshan\Desktop\Lab2 _\Debug\Lab0.exe

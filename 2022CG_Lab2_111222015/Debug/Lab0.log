@@ -1,0 +1,86 @@
+﻿  Lab0.cpp
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(126,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(126,36): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(126,28): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(126,20): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(127,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(127,36): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(127,28): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(127,20): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(128,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(128,36): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(128,28): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(128,20): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(129,44): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(129,36): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(129,28): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(129,20): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(131,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(139,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(140,15): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(141,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(142,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(149,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(159,152): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(159,148): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(277,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(278,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(279,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(280,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(367,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(368,30): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(466,34): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(473,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(474,36): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(567,34): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(574,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(575,36): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(669,34): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(676,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(677,36): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(768,33): warning C4244: '引數': 將 'int' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(961,13): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(961,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(961,23): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(961,23): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(962,13): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(962,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(962,27): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(962,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(1065,36): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(1072,36): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(1086,33): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\chenyingshan\Desktop\Lab2 _\Lab0.cpp(1093,33): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  Lab0.vcxproj -> C:\Users\chenyingshan\Desktop\Lab2 _\Debug\Lab0.exe
